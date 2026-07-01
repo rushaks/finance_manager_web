@@ -1,8 +1,4 @@
 Finance Manager PWA
-<div align="center">
-https://img.shields.io/badge/Flutter-3.x-blue?style=flat-square&logo=flutter
-https://img.shields.io/badge/PWA-Offline%2520First-purple?style=flat-square&logo=pwa
-https://img.shields.io/badge/License-MIT-green?style=flat-square
 
 Персональный финансовый менеджер — простое и удобное приложение для управления личными финансами с поддержкой офлайн-режима.
 
@@ -155,8 +151,3 @@ MIT License
 
 👨‍💻 Автор
 rushaks
-
-<div align="center">
-🌐 Демо-версия • 🐛 Сообщить об ошибке • ⭐ Поставить звезду
-
-</div>
