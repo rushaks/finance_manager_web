@@ -47185,25 +47185,23 @@ if(m>10)n.push(A.aw("\u0438 \u0435\u0449\u0435 "+(m-10)+" \u043a\u0430\u0442\u04
 m=B.c.ak(b,2)
 n.push(A.aw("\u0418\u0442\u043e\u0433\u043e: "+(m+" \u20bd"),k,k,k,k,A.bX(k,k,l.dx==="expense"?B.at:B.ba,k,k,k,k,k,k,k,k,13,k,k,B.dP,k,k,!0,k,k,k,k,k,k,k,k),k,k,k))
 return A.ji(new A.bf(B.fU,A.cq(A.b([p,B.I2,o,B.bE,A.bP(n,B.t,B.bL,B.r,0)],j),B.t,B.q,B.r),k),B.iA)},
-ut(a,b){var s,r,q,p,o,n,m,l=this,k=null,j=l.at===b,i=new A.bM(Date.now(),0,!1)
-if(j)if(b==="month")s="\u041c\u0435\u0441\u044f\u0446 ("+B.jx[A.aP(i)-1]+")"
-else if(b==="today")s="\u0421\u0435\u0433\u043e\u0434\u043d\u044f ("+A.ki("dd.MM",k).eX(i)+")"
-else if(b==="quarter")s="\u041a\u0432\u0430\u0440\u0442\u0430\u043b ("+(B.f.fF(A.aP(i)-1,3)+1)+")"
-else s=b==="year"?"\u0413\u043e\u0434 ("+A.aK(i)+")":a
+ut(a,b){var s,r,q,p,o,n,m=this,l=null,k=m.at===b,j=new A.bM(Date.now(),0,!1)
+if(k)if(b==="month")s="\u041c\u0435\u0441\u044f\u0446 ("+B.jx[A.aP(j)-1]+")"
+else if(b==="today")s="\u0421\u0435\u0433\u043e\u0434\u043d\u044f ("+A.ki("dd.MM",l).eX(j)+")"
+else if(b==="quarter")s="\u041a\u0432\u0430\u0440\u0442\u0430\u043b ("+(B.f.fF(A.aP(j)-1,3)+1)+")"
+else s=b==="year"?"\u0413\u043e\u0434 ("+A.aK(j)+")":a
 else s=a
-r=b==="custom"?l.gakq():new A.atj(l,b)
-if(j){q=l.c
+r=b==="custom"?m.gakq():new A.atj(m,b)
+if(k){q=m.c
 q.toString
 q=A.C(q).dx}else q=B.B
 p=A.dN(8)
-if(j)o=B.k
-else{o=l.c
+if(k)o=B.k
+else{o=m.c
 o.toString
 o=A.C(o).ok.Q
-o=o==null?k:o.b}n=j?B.aY:B.x
-if(j)m=b==="month"||b==="today"
-else m=!1
-return A.dc(A.fl(k,A.cd(B.ae,A.aw(s,k,k,k,k,A.bX(k,k,o,k,k,k,k,k,k,k,k,m?11:13,k,k,n,k,k,!0,k,k,k,k,k,k,k,k),B.hJ,k,k),B.p,k,new A.bV(q,k,k,p,k,k,B.a2),k,k,B.Po,B.eE,k,k,k),B.Y,!1,k,k,k,k,k,k,k,k,k,k,k,k,k,r,k,k,k,k,k,k),1)},
+o=o==null?l:o.b}n=k?B.aY:B.x
+return A.dc(A.fl(l,A.cd(B.ae,A.aw(s,l,l,l,l,A.bX(l,l,o,l,l,l,l,l,l,l,l,11,l,l,n,l,l,!0,l,l,l,l,l,l,l,l),B.hJ,l,l),B.p,l,new A.bV(q,l,l,p,l,l,B.a2),l,l,B.Po,B.eE,l,l,l),B.Y,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,r,l,l,l,l,l,l),1)},
 OA(a,b){var s,r,q=null,p=this.dx,o=p===b
 if(o)p=p==="expense"?B.at:B.ba
 else p=B.dG
