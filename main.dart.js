@@ -47176,7 +47176,7 @@ s=A.C(j).ax.a===B.aq
 r=s?B.k:B.a3
 q=s?B.a6:B.X
 j=t.p
-p=A.bP(A.b([A.aw("\u0420\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u043f\u043e \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f\u043c",k,k,k,k,A.bX(k,k,r,k,k,k,k,k,k,k,k,14,k,k,B.dP,k,k,!0,k,k,k,k,k,k,k,k),k,k,k),A.bP(A.b([l.OA("\u0420\u0430\u0441\u0445\u043e\u0434\u044b","expense"),B.kq,l.OA("\u0414\u043e\u0445\u043e\u0434\u044b","income")],j),B.t,B.q,B.r,0)],j),B.t,B.bL,B.r,0)
+p=A.bP(A.b([A.aw("\u041f\u043e \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f\u043c",k,k,k,k,A.bX(k,k,r,k,k,k,k,k,k,k,k,14,k,k,B.dP,k,k,!0,k,k,k,k,k,k,k,k),k,k,k),A.bP(A.b([l.OA("\u0420\u0430\u0441\u0445\u043e\u0434\u044b","expense"),B.kq,l.OA("\u0414\u043e\u0445\u043e\u0434\u044b","income")],j),B.t,B.q,B.r,0)],j),B.t,B.bL,B.r,0)
 o=new A.qP(a,A.a_(a).h("qP<1>"))
 o=A.bP(A.b([A.cT(new A.hD(new A.CF(A.aPl(k,k,22,k,o.gjd(o).iE(0,new A.atl(b),t.Ka).ez(0),1,-90),B.O,B.c7,k,k),k),130,130),B.cC,A.dc(A.agn(new A.atm(a,b,r,q)),1)],j),B.aH,B.q,B.r,0)
 n=A.b([],j)
