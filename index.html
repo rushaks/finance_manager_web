@@ -103,7 +103,7 @@
   </div>
 
   <!-- Загрузка Flutter -->
-  <script src="flutter_bootstrap.js" async></script>
+  <script type="module" src="flutter_bootstrap.js"></script>
   
   <script>
     // Скрываем начальный экран после загрузки Flutter
@@ -125,5 +125,18 @@
       }, 100);
     });
   </script>
+  <script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function() {
+      navigator.serviceWorker.register('flutter_service_worker.js')
+        .then(function(reg) {
+          console.log('Service Worker registered');
+        })
+        .catch(function(err) {
+          console.error('SW registration failed:', err);
+        });
+    });
+  }
+</script>
 </body>
 </html>
