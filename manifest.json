@@ -1,11 +1,11 @@
 {
-    "name": "Finance manager",
-    "short_name": "Finance",
+    "name": "Финансы",
+    "short_name": "Финансы",
     "start_url": ".",
-    "display": "fullscreen",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "Персональный финансовый менеджер",
+    "display": "standalone",
+    "background_color": "#121212",
+    "theme_color": "#2196F3",
+    "description": "Финансовый менеджер — учёт доходов, расходов и счетов",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
